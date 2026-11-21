@@ -1,0 +1,12 @@
+{
+  "name": "gemini-relay",
+  "version": "1.0.0",
+  "description": "OpenAI-format relay for Gemini API with multi-key rotation",
+  "main": "relay.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node relay.js"
+  }
+}
